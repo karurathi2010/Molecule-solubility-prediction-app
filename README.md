@@ -18,6 +18,8 @@ After rewewing the metrics obtained from these two approaches,I decided to go wi
 
 ![image](https://github.com/user-attachments/assets/68b026d8-085f-415b-a2a5-15432a83b856)
 
+###ScatterPlots:
+
 ![image](https://github.com/user-attachments/assets/675c0792-3f04-4b2a-b347-38190968d1b8)
 
 ![image](https://github.com/user-attachments/assets/f7042f1b-20ae-4758-9261-c052932551b4)
