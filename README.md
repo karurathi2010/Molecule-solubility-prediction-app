@@ -15,12 +15,9 @@ Here, I used two different machine learning approaches to achieve the best predi
 2 RandomforestRegressor
 
 After rewewing the metrics obtained from these two approaches,I decided to go with the RandomForestRegressor model.
+![chart](https://github.com/user-attachments/assets/a0f86581-8c69-403e-9c7a-500abcf2acf0)
 
-Model	                  Test MSE	Test R2	Train MSE	Train R2
-0	Linear Regression	     0.96275	0.772911	1.02777	0.768621
-1	RandomForestRegresson	 0.485255	0.88554	0.091579	0.979383
-
-###ScatterPlots:
+### ScatterPlots:
 
 ![image](https://github.com/user-attachments/assets/675c0792-3f04-4b2a-b347-38190968d1b8)
 
