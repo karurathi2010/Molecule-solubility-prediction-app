@@ -16,7 +16,6 @@ Here, I used two different machine learning approaches to achieve the best predi
 
 After rewewing the metrics obtained from these two approaches,I decided to go with the RandomForestRegressor model.
 ![chart](https://github.com/user-attachments/assets/a0f86581-8c69-403e-9c7a-500abcf2acf0)
-
 ### ScatterPlots:
 
 ![image](https://github.com/user-attachments/assets/675c0792-3f04-4b2a-b347-38190968d1b8)
