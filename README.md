@@ -16,7 +16,9 @@ Here, I used two different machine learning approaches to achieve the best predi
 
 After rewewing the metrics obtained from these two approaches,I decided to go with the RandomForestRegressor model.
 
-![image](https://github.com/user-attachments/assets/68b026d8-085f-415b-a2a5-15432a83b856)
+Model	                  Test MSE	Test R2	Train MSE	Train R2
+0	Linear Regression	     0.96275	0.772911	1.02777	0.768621
+1	RandomForestRegresson	 0.485255	0.88554	0.091579	0.979383
 
 ###ScatterPlots:
 
